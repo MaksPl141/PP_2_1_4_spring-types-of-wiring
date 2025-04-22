@@ -15,6 +15,6 @@ public class Duck5 {
 
     @Override
     public String toString() {
-        return "в сундуке заяц  " + egg.toString();
+        return "в утке яйцо " + egg.toString();
     }
 }

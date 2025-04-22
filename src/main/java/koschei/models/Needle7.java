@@ -14,6 +14,6 @@ public class Needle7 {
     }
 
     @Override
-    public String toString() {return "в яйце — игла, " + deth.toString();
+    public String toString() {return " " + deth.toString();
     }
 }
